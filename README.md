@@ -49,4 +49,6 @@ In my undergrad at Cornell, I researched ways of using Quantum Computers to solv
 <img src="/images/1.png" alt="advection" width="400"/>
 </p>
 
+## More
 
+You can find more on my research [here](https://github.com/mathewpareles/Papers-And-Presentations).
