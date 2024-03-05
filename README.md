@@ -4,7 +4,7 @@
 ## Superconductivity Research
 
 
-The goal of my Master's thesis was to discover a new class of superconducting material. We showed that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials. 
+The goal of my [Master's thesis](https://github.com/mathewpareles/Papers-And-Presentations/blob/main/Superconductivity%20Thesis.pdf) was to discover a new class of superconducting material. We showed that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials. 
 Here are some of the materials I studied (drawn in Reciprocal Space).
 
 <p align="center">
