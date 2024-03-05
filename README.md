@@ -41,7 +41,7 @@ We found strong evidence for this. As you provide GPT-3 with more of a hint, its
 <!-- <img src="/images/11.png" alt="gpt linear 2" width="350"/> -->
 </p>
 
-You can find more details on my work [here](https://github.com/mathewpareles/Papers-And-Presentations/tree/main/LLM%20Interpretability).
+You can find more details on my LLM interpretability work [here](https://github.com/mathewpareles/Papers-And-Presentations/tree/main/LLM%20Interpretability).
 
 
 
