@@ -24,7 +24,10 @@ We found that by tuning the strength of the potential, you can create spikes in 
 </p>
 
 
-
+You can find my thesis draft
+[here](https://github.com/mathewpareles/Papers-And-Presentations/blob/main/Superconductivity%20Thesis.pdf)
+and summary
+[here](https://github.com/mathewpareles/Papers-And-Presentations/blob/main/Superconductivity%20Slides.pdf).
 
 
 ## LLM Interpretability Research
@@ -38,6 +41,9 @@ We found strong evidence for this. As you provide GPT-3 with more of a hint, its
 <!-- <img src="/images/11.png" alt="gpt linear 2" width="350"/> -->
 </p>
 
+You can find more details on my work [here](https://github.com/mathewpareles/Papers-And-Presentations/tree/main/LLM%20Interpretability).
+
+
 
 ## Quantum Computing Research
 
@@ -48,6 +54,9 @@ In my undergrad at Cornell, I researched ways of using Quantum Computers to solv
 <img src="/images/0.png" alt="heat" width="400"/>
 <img src="/images/1.png" alt="advection" width="400"/>
 </p>
+
+
+You can find more of my quantum computing work [here](https://github.com/mathewpareles/Papers-And-Presentations/blob/main/Quantum%20Computing%20Paper.pdf).
 
 ## More
 
