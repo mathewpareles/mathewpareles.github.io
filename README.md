@@ -15,7 +15,7 @@ Here are some of the materials I studied (drawn in Reciprocal Space).
 
 
 
-We found that you can tune the materials to create spikes in the density of states (DOS) which can lead to instabilities in the material, including topological superconductivity. 
+We found that by tuning the strength of the potential, you can create spikes in the density of states (DOS). This can lead to instabilities in the material, including superconductivity. 
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
