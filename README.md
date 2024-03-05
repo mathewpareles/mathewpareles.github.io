@@ -42,11 +42,11 @@ We found strong evidence for this - as you provide GPT-3 with more of a hint on 
 ## Quantum Computing Research
 
 
-In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations including the Heat, Advection, and Burger's Equations. Here's one of my simulations of the Heat Equation. The code runs on IBM's Quantum Computer. 
+In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations including the Heat, Advection, and Burger's Equations. I created simulations that can run on IBM's Quantum Computer. Here are some of my results. The Heat Equation (left) can accurately be solved on a quantum computer, while the Advection Equation (right) cannot due to discretization errors. 
 
 <p align="center">
-<img src="/images/0.png" alt="4 fold band" width="400"/>
-<!-- <img src="/images/1.png" alt="6 fold band" width="400"/> -->
+<img src="/images/0.png" alt="heat" width="400"/>
+<img src="/images/1.png" alt="advection" width="400"/>
 </p>
 
 
