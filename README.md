@@ -19,7 +19,7 @@ When you calculate the Energy Spectrum of these materials there are spikes in th
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
-<!-- <img src="/images/6.png" alt="6 fold band" width="400"/> -->
+<img src="/images/6.png" alt="6 fold band" width="400"/>
 <!-- <img src="/images/7.png" alt="10 fold band" width="400"/> -->
 </p>
 
@@ -35,7 +35,7 @@ We found strong evidence for this - as you provide GPT-3 with more of a hint on 
 
 <p align="center">
 <img src="/images/8.png" alt="gpt linear 1" width="350"/>
-<img src="/images/11.png" alt="gpt linear 2" width="350"/>
+<!-- <img src="/images/11.png" alt="gpt linear 2" width="350"/> -->
 </p>
 
 
