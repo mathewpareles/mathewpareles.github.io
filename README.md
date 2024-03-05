@@ -29,7 +29,7 @@ We found that by tuning the strength of the potential, you can create spikes in 
 
 ## LLM Interpretability Research
 
-I also researched the exact circuitry that GPT-3 uses to solve algebraic equations. Specifically, we wanted to show that GPT-3 was learning simple attention patterns like the "Induction Head", and didn't have an internal representation of the task. 
+I also researched the exact attention pattern that GPT-3 uses when it solves algebraic equations. Specifically, we wanted to show that GPT-3 was learning simple attention patterns like the "Induction Head", and didn't have an internal representation of the task it was solving. 
 We found strong evidence for this. As you provide GPT-3 with more of a hint, its performance increases linearly, without a sharp increase as one might expect.
 
 
