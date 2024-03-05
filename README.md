@@ -60,4 +60,4 @@ You can find more of my quantum computing work [here](https://github.com/mathewp
 
 ## More
 
-You can find more on my research [here](https://github.com/mathewpareles/Papers-And-Presentations).
+You can find my papers and presentations [here](https://github.com/mathewpareles/Papers-And-Presentations).
