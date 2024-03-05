@@ -34,8 +34,8 @@ and summary
 
 ## LLM Interpretability Research
 
-I also researched the exact attention pattern that GPT-3 uses when it solves algebraic equations. Specifically, we wanted to show that GPT-3 was learning simple attention patterns like the "Induction Head", and didn't have an internal representation of the task it was solving. 
-We found strong evidence for this. As you provide GPT-3 with more of a hint, its performance increases linearly, without a sharp increase as one might expect.
+I also did research to find the exact attention pattern that GPT-3 uses when it solves algebraic equations. Specifically, I wanted to show that GPT-3 was learning simple attention patterns like the "Induction Head", and didn't have an internal representation of the task it was solving. 
+I found strong evidence for this. As you provide GPT-3 with more of a hint, its performance increases linearly, without a sharp increase as one might expect.
 
 
 <p align="center">
